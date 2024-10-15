@@ -1,0 +1,3 @@
+C:/Users/cjensen32/Git/CSCI2240/cmake-build-debug/CMakeFiles/CSCI2240.dir
+C:/Users/cjensen32/Git/CSCI2240/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cjensen32/Git/CSCI2240/cmake-build-debug/CMakeFiles/rebuild_cache.dir

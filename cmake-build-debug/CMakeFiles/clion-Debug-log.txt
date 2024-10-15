@@ -1,0 +1,4 @@
+C:\Users\cjensen32\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/cjensen32/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\cjensen32\Git\CSCI2240 -B C:\Users\cjensen32\Git\CSCI2240\cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/cjensen32/Git/CSCI2240/cmake-build-debug
